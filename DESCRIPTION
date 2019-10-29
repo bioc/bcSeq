@@ -1,7 +1,7 @@
 Package: bcSeq
 Type: Package
 Title: Fast Sequence Mapping in High-Throughput shRNA and CRISPR Screens
-Version: 1.7.1
+Version: 1.8.0
 Date: 2019-07-18
 Authors@R: c(person("Jiaxing","Lin", role = c("aut", "cre"), 
             email = "jiaxing.lin@duke.edu"), 
